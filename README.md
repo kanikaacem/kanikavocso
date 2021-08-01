@@ -27,20 +27,20 @@ Run the application with the following command
 $ php artisan serve
 
 # Screenshot : 1 (Main Website GUI)
-<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/webcamera1.png" width="auto"></a></p>
+<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/2.PNG" width="auto"></a></p>
 
     
 # Screenshot : 2 (Starting Recording Video)
-<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/2.png" width="auto"></a></p>
+<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/2.PNG" width="auto"></a></p>
 
 
 # Screenshot : 3 (After Recording , provide title to the Video and saving the video)
-<p align="center"><img src="https://github.com/kanikaacem/kanikavocso/tree/main/3.png" width="auto"></a></p>
+<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/2.PNG" width="auto"></a></p>
     
 
 # Screenshot : 4 (Show Recorded Video)
-<p align="center"><img src="https://github.com/kanikaacem/kanikavocso/tree/main/4.png" width="auto"></a></p>
-<p align="center"><img src="https://github.com/kanikaacem/kanikavocso/tree/main/5.png" width="auto"></a></p>
+<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/2.PNG" width="auto"></a></p>
+<p align="center"><img src="https://www.github.com/kanikaacem/kanikavocso/tree/main/2.PNG" width="auto"></a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
