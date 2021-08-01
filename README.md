@@ -35,7 +35,7 @@ $ php artisan serve
 
 
 # Screenshot : 3 (After Recording , provide title to the Video and saving the video)
-<p align="center"><img src=https://github.com/kanikaacem/kanikavocso/blob/main/3.PNG" width="auto"></a></p>
+<p align="center"><img src="https://github.com/kanikaacem/kanikavocso/blob/main/3.PNG" width="auto"></a></p>
     
 
 # Screenshot : 4 (Show Recorded Video)
