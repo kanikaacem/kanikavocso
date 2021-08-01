@@ -27,7 +27,7 @@ Run the application with the following command
 $ php artisan serve
 
 # Screenshot : 1 (Main Website GUI)
-<p align="center"><img src="https://github.com/kanikaacem/kanikavocso/blob/main/webcamera1.png" width="auto"></a></p>
+<p align="center"><img src="https://github.com/kanikaacem/kanikavocso/webcamera1.png" width="auto"></a></p>
 
     
 # Screenshot : 2 (Starting Recording Video)
